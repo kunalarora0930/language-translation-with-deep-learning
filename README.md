@@ -1,4 +1,7 @@
-#This project is a work in progress
+//This project is a work in progress.
+
+Link to colab notebook: https://colab.research.google.com/drive/1DkJDw4AXkPY-A3EJSPsZVoWsrq_F6KGf
+
 # language-translation-with-deep-learning
 
 ### To-do:
