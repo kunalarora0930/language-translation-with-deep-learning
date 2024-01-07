@@ -2,6 +2,8 @@
 
 Link to colab notebook: https://colab.research.google.com/drive/1DkJDw4AXkPY-A3EJSPsZVoWsrq_F6KGf
 
+Dataset used: https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset
+
 # language-translation-with-deep-learning
 
 ### To-do:
